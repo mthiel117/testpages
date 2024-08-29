@@ -1,7 +1,5 @@
 # Validate State Report
 
-[test file](test.md)
-
 **Table of Contents:**
 
 - [Validate State Report](validate-state-report)
