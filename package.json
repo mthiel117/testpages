@@ -3,6 +3,9 @@
     "version": "1.0.0",
     "description": "",
     "keywords": [],
+    "scripts": {
+        "build": "jekyll build"
+    },
     "author": "Mark Thiel",
     "license": "ISC"
 }
