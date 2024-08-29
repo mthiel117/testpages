@@ -16,18 +16,6 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18  # Adjust Node.js version if needed
-
-      - name: Install dependencies
-        run: npm install  # Or yarn install, depending on your project
-
-      - name: Build website
-        run: npm run build  # Or your specific build command
-
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
