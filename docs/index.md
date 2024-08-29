@@ -13,7 +13,7 @@
 
 | Total Tests | Total Tests Passed | Total Tests Failed | Total Tests Skipped |
 | ----------- | ------------------ | ------------------ | ------------------- |
-| 918 | 845 | 99 | 73 |
+| 918 | 845 | 99 | 1 |
 
 ### Summary Totals Device Under Test
 
