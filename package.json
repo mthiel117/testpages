@@ -1,8 +1,8 @@
 {
-    "name": "testpages", // The name of your project, taken from the repository name
-    "version": "1.0.0", // The initial version of your project
-    "description": "", // A brief description of your project
-    "keywords": [], // An array of keywords related to your project
-    "author": "Mark Thiel", // Your name or the project author's name
-    "license": "ISC" // A permissive open-source license
+    "name": "testpages",
+    "version": "1.0.0",
+    "description": "",
+    "keywords": [],
+    "author": "Mark Thiel",
+    "license": "ISC"
 }
