@@ -2,8 +2,8 @@ name: Deploy Website
 
 on:
   push:
-  branches:
-    - main  # Replace with your main branch name if different
+    branches:
+      - main  # Replace with your main branch name if different
 
 permissions:
   contents: read
