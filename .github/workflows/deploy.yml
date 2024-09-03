@@ -32,6 +32,10 @@ jobs:
         with:
           path: "./docs/_site"
 
+      - name: Display verification report on github
+        run: |
+          cat docs/index.md >> $GITHUB_STEP_SUMMARY
+
   deploy:
     runs-on: ubuntu-latest
     needs: build
